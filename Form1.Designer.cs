@@ -514,7 +514,7 @@
             this.MaximumSize = new System.Drawing.Size(1054, 722);
             this.MinimumSize = new System.Drawing.Size(1054, 722);
             this.Name = "Form1";
-            this.Text = "Propellant Converter V1.4";
+            this.Text = "Rocket Propellant Calculator";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
